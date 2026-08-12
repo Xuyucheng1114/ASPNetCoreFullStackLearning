@@ -6,7 +6,7 @@ This repository documents my learning journey in ASP.NET Core full-stack develop
 
 - Repository initialized
 - README completed
-- Web API project: pending
+- Web API project: completed
 
 ## Related Repositories
 
